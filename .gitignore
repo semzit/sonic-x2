@@ -2,3 +2,6 @@
 __pycache__/
 logs/
 *.pyc
+
+# generated zero-shot graph (rebuild with wsp/build_zeroshot.py)
+models/x2_sonic_frozen_g1core_zeroshot.onnx
